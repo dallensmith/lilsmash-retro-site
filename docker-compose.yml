@@ -4,8 +4,6 @@ services:
   smashshack:
     build: .
     container_name: smashshack_website
-    ports:
-      - "8080:80"
     restart: always
     logging:
       driver: "json-file"
