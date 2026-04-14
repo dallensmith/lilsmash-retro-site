@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.DS_Store
+.user.ini
+php.ini
+*.log
+.env
+.venv
+env/
+venv/
+node_modules/
+dist/
+build/
+.idea/
+.vscode/
